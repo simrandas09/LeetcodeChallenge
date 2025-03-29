@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
