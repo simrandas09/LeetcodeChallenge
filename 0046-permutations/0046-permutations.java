@@ -1,29 +1,27 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        boolean[] visited = new boolean[nums.length];
-        backtrack(nums, new ArrayList<>(), visited, result);
-        return result;
+        List<List<Integer>> ans = new ArrayList<>();
+        recurPermute(0,nums,ans);
+        return ans;
     }
-
-    private void backtrack(int[] nums, List<Integer> current, boolean[] visited, List<List<Integer>> result) {
-        // Base Case: A permutation is complete
-        if (current.size() == nums.length) {
-            result.add(new ArrayList<>(current)); // Add a deep copy
+    private void recurPermute(int index, int[] nums, List<List<Integer>> ans){
+        if(index == nums.length){
+            List<Integer> ds = new ArrayList<>();
+            for(int i=0;i<nums.length;i++){
+                ds.add(nums[i]);
+            }
+            ans.add(new ArrayList<>(ds));
             return;
         }
-
-        // Recursive Case
-        for (int i = 0; i < nums.length; i++) {
-            if (visited[i]) continue; // Skip if already used
-            
-            visited[i] = true;
-            current.add(nums[i]);
-            backtrack(nums, current, visited, result);
-            current.remove(current.size() - 1); // Remove last element for backtracking
-            visited[i] = false;
+        for(int i=index;i<nums.length;i++){
+            swap(i,index,nums);
+            recurPermute(index+1,nums,ans);
+            swap(i,index,nums);
         }
+    }
+    private void swap(int i, int j,int[] nums){
+        int t = nums[i];
+        nums[i] = nums[j];
+        nums[j] = t;
     }
 }
