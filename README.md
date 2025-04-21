@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 ## Greedy
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0040-combination-sum-ii) |
