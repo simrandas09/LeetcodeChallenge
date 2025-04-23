@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Stack
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2681-put-marbles-in-bags) |
 ## Binary Search Tree
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2280-count-good-triplets-in-an-array) |
 ## Monotonic Stack
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [2280-count-good-triplets-in-an-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
