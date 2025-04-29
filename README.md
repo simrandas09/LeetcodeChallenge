@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3430-count-days-without-meetings](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Recursion
 |  |
 | ------- |
