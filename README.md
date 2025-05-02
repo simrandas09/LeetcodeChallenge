@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3430-count-days-without-meetings](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3430-count-days-without-meetings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3430-count-days-without-meetings) |
 ## Tree
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2998-count-symmetric-integers) |
+| [3001-apply-operations-to-maximize-score](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3548-find-the-count-of-good-integers) |
 ## Matrix
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3001-apply-operations-to-maximize-score](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3001-apply-operations-to-maximize-score](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
 |  |
 | ------- |
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2681-put-marbles-in-bags) |
+| [3001-apply-operations-to-maximize-score](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3001-apply-operations-to-maximize-score) |
 ## Backtracking
 |  |
 | ------- |
@@ -323,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
