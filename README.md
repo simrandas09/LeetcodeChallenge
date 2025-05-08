@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0801-is-graph-bipartite) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3430-count-days-without-meetings](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2681-put-marbles-in-bags) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
