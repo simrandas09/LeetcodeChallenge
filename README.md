@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
