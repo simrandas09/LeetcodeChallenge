@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Tree
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3637-count-number-of-balanced-permutations) |
