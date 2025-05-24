@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0868-push-dominoes) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2856-count-complete-subarrays-in-an-array) |
