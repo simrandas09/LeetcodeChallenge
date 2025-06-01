@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0801-is-graph-bipartite) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Array
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Linked List
 |  |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2681-put-marbles-in-bags) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search Tree
