@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3001-apply-operations-to-maximize-score) |
 | [3201-distribute-candies-among-children-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3201-distribute-candies-among-children-ii) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3201-distribute-candies-among-children-ii) |
