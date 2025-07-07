@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2215-finding-3-digit-even-numbers) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
