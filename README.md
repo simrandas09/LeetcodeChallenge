@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0868-push-dominoes) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
