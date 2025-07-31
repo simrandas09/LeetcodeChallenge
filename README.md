@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0090-subsets-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3307-find-the-maximum-sum-of-node-values) |
