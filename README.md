@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0806-domino-and-tromino-tiling) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0416-partition-equal-subset-sum) |
