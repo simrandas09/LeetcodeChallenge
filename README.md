@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1500-count-largest-group](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1500-count-largest-group) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0940-fruit-into-baskets](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2626-count-the-number-of-good-subarrays) |
