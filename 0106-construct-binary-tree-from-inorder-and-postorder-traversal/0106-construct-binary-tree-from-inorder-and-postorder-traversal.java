@@ -13,32 +13,34 @@
  *     }
  * }
  */
+
 class Solution {
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-        Map<Integer, Integer> mp = new HashMap<>();
+        Map<Integer, Integer> inMap = new HashMap<>();
+
         for (int i = 0; i < inorder.length; i++) {
-            mp.put(inorder[i], i);
+            inMap.put(inorder[i], i);
         }
-        return buildTreeNode(postorder, postorder.length - 1, 0, inorder, 0, inorder.length - 1, mp);
+
+        return build(postorder, 0, postorder.length - 1, inorder, 0, inorder.length - 1, inMap);
     }
 
-    private TreeNode buildTreeNode(int[] postorder, int postEnd, int postStart,
-                                   int[] inorder, int inStart, int inEnd,
-                                   Map<Integer, Integer> mp) {
-        if (postEnd < postStart || inStart > inEnd) return null;
+    public TreeNode build(int[] postorder, int postStart, int postEnd,
+                          int[] inorder, int inStart, int inEnd,
+                          Map<Integer, Integer> inMap) {
 
+        if (postStart > postEnd || inStart > inEnd) return null;
+
+        // Last element in postorder is the root
         TreeNode root = new TreeNode(postorder[postEnd]);
-        int inIndex = mp.get(root.val);
-        int rightTreeSize = inEnd - inIndex;
 
-        // Build right subtree
-        root.right = buildTreeNode(postorder, postEnd - 1, postEnd - rightTreeSize,
-                                   inorder, inIndex + 1, inEnd, mp);
+        int inIndex = inMap.get(root.val);
+        int numsLeft = inIndex - inStart;
 
-        // Build left subtree
-        root.left = buildTreeNode(postorder, postEnd - rightTreeSize - 1, postStart,
-                                  inorder, inStart, inIndex - 1, mp);
+        // Build right subtree first, then left
+        root.right = build(postorder, postStart + numsLeft, postEnd - 1, inorder, inIndex + 1, inEnd, inMap);
+        root.left = build(postorder, postStart, postStart + numsLeft - 1, inorder, inStart, inIndex - 1, inMap);
 
         return root;
     }
-    }
+}
