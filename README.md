@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2479-meeting-rooms-iii) |
+| [2529-range-product-queries-of-powers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2529-range-product-queries-of-powers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2529-range-product-queries-of-powers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Combinatorics
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2529-range-product-queries-of-powers) |
 | [3647-zero-array-transformation-iii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3647-zero-array-transformation-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Queue
