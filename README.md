@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0135-candy) |
+| [0229-majority-element-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0679-24-game](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0679-24-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0229-majority-element-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0229-majority-element-ii) |
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0940-fruit-into-baskets) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0229-majority-element-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
