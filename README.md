@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [0679-24-game](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0940-fruit-into-baskets) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0867-new-21-game) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0090-subsets-ii) |
+| [0679-24-game](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
