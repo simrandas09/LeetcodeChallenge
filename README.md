@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0053-maximum-subarray) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
