@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2529-range-product-queries-of-powers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Combinatorics
 |  |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -651,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
