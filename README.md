@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3637-count-number-of-balanced-permutations) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3830-find-closest-person) |
 ## Matrix
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Combinatorics
 |  |
 | ------- |
