@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0210-course-schedule-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0513-find-bottom-left-tree-value) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0513-find-bottom-left-tree-value) |
 | [0801-is-graph-bipartite](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0801-is-graph-bipartite) |
 | [0945-snakes-and-ladders](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0945-snakes-and-ladders) |
