@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2479-meeting-rooms-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2529-range-product-queries-of-powers) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2429-design-a-food-rating-system](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2681-put-marbles-in-bags) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2429-design-a-food-rating-system](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3194-find-words-containing-character) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2429-design-a-food-rating-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -698,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
