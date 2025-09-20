@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3827-implement-router](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -712,4 +717,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
