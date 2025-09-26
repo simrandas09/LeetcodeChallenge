@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [0611-valid-triangle-number](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [0611-valid-triangle-number](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0611-valid-triangle-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0868-push-dominoes) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0611-valid-triangle-number](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0611-valid-triangle-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1049-minimum-domino-rotations-for-equal-row) |
