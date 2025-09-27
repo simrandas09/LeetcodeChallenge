@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0945-snakes-and-ladders) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Database
 |  |
