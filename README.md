@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/simrandas09/LeetcodeChallenge/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1293-three-consecutive-odds](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
