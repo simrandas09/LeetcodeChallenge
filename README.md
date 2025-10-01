@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1500-count-largest-group) |
+| [1642-water-bottles](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/simrandas09/LeetcodeChallenge/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/simrandas09/LeetcodeChallenge/tree/master/2324-find-triangular-sum-of-an-array) |
